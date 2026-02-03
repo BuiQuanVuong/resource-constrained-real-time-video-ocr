@@ -1,1 +1,2 @@
 Real-time, resource-constrained video streaming and OCR pipeline on Raspberry Pi, featuring multi-threaded backpressure handling, FFmpeg-based transcoding, and live MJPEG streaming over HTTP.
+Note: This is the final prject for IFB102 at QUT.
